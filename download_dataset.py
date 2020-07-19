@@ -4,7 +4,7 @@ import argparse
 import requests
 import gdown
 
-from utils.file_paths import *
+from utils_ref.file_paths import *
 
 
 def download(url, fpath):
